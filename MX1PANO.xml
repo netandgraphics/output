@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.1" start="node1" apprev="15974">
+  <panorama id="node1">
+    <input height="1250" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" width="1250" overlap="1">
+      <level height="1250" preload="0" predecode="0" width="1250"/>
+      <level height="625" preload="0" predecode="0" width="625"/>
+      <level height="312" preload="1" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-2.31">
+      <start pan="0.77" projection="4" tilt="-28.39" fov="68.1"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata author="" title="" source="" customnodeid="" tags="RECORRIDO 360 SLP" latitude="" info="" longitude="" datetime="29/07/21 8:58 A.M." comment="" copyright="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" border="1" height="20" borderradius="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1"/>
+      <polyhotspot id="Poly01" title="" url="https://centrohistoricoslp.com/" target="_blank" description="">
+        <vertex pan="18.88" tilt="-35.39"/>
+        <vertex pan="19.18" tilt="-41.61"/>
+        <vertex pan="9.12" tilt="-45.17"/>
+        <vertex pan="-8.48" tilt="-42.84"/>
+        <vertex pan="-8.36" tilt="-36.05"/>
+        <vertex pan="-3.81" tilt="-31.61"/>
+        <vertex pan="17.15" tilt="-32.96"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="Calle Hidalgo" url="https://sanluis.eluniversal.com.mx/metropoli/11-03-2021/5-lugares-imperdibles-en-el-centro-historico-de-san-luis-potosi" target="_blank" description="">
+        <vertex pan="25.43" tilt="-21.36"/>
+        <vertex pan="26.53" tilt="-28.04"/>
+        <vertex pan="18.57" tilt="-30.71"/>
+        <vertex pan="7.64" tilt="-26.93"/>
+        <vertex pan="9.84" tilt="-21"/>
+        <vertex pan="24.79" tilt="-20.71"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" url="{node2}" target="" description="">
+        <vertex pan="-13.05" tilt="-6.23"/>
+        <vertex pan="-14.19" tilt="-9.08"/>
+        <vertex pan="-21.48" tilt="-9.31"/>
+        <vertex pan="-25.17" tilt="-7.57"/>
+        <vertex pan="-24.41" tilt="-1.66"/>
+        <vertex pan="-21.68" tilt="-2.03"/>
+        <vertex pan="-12.65" tilt="-4.08"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" url="{node3}" target="" description="">
+        <vertex pan="-4.86" tilt="4.61"/>
+        <vertex pan="-7.24" tilt="-2.68"/>
+        <vertex pan="-18.79" tilt="-0.5"/>
+        <vertex pan="-21.07" tilt="4.9"/>
+        <vertex pan="-10.9" tilt="4.23"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomin="0" type="diptocolor" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" invertcontrol="1" speedwheel="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1250" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" width="1250" overlap="1">
+      <level height="1250" preload="0" predecode="0" width="1250"/>
+      <level height="625" preload="0" predecode="0" width="625"/>
+      <level height="312" preload="1" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="16.3" projection="4" tilt="-27.97" fov="68.3"/>
+      <flyin pan="16.3" projection="4" tilt="-27.97" fov="68.3"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata author="" title="" source="" customnodeid="" tags="RECORRIDO 360 SLP" latitude="" info="" longitude="" datetime="29/07/21 9:01 A.M." comment="" copyright="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" border="1" height="20" borderradius="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1"/>
+      <polyhotspot id="Poly01" title="" url="{node3}" target="" description="">
+        <vertex pan="13.93" tilt="3.4"/>
+        <vertex pan="14.15" tilt="-6.02"/>
+        <vertex pan="-6.01" tilt="-8.86"/>
+        <vertex pan="-8.15" tilt="-3.4"/>
+        <vertex pan="-5.57" tilt="5.31"/>
+        <vertex pan="2.07" tilt="6.49"/>
+        <vertex pan="7.64" tilt="6.39"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" url="https://centrohistoricoslp.com/alameda-juan-sarabia/" target="_blank" description="">
+        <vertex pan="-0.9" tilt="-51.24"/>
+        <vertex pan="1.25" tilt="-63.52"/>
+        <vertex pan="-32.27" tilt="-60.49"/>
+        <vertex pan="-42.14" tilt="-54.65"/>
+        <vertex pan="-37.72" tilt="-47.52"/>
+        <vertex pan="-34.47" tilt="-44.23"/>
+        <vertex pan="-6.41" tilt="-47.67"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" url="https://rutadirecta.com/city/san-luis-potosi.san-luis-potosi" target="_blank" description="">
+        <vertex pan="-77.04" tilt="-23.68"/>
+        <vertex pan="-78.69" tilt="-36.16"/>
+        <vertex pan="-90.15" tilt="-35.26"/>
+        <vertex pan="-101.51" tilt="-37.08"/>
+        <vertex pan="-104.05" tilt="-32.75"/>
+        <vertex pan="-104.92" tilt="-30.2"/>
+        <vertex pan="-105.22" tilt="-24.82"/>
+        <vertex pan="-103.39" tilt="-19.72"/>
+        <vertex pan="-99.44" tilt="-18.84"/>
+        <vertex pan="-86.01" tilt="-21.57"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" url="http://www.museodelferrocarril.gob.mx/" target="_blank" description="">
+        <vertex pan="85.25" tilt="-21.67"/>
+        <vertex pan="83.77" tilt="-31.02"/>
+        <vertex pan="74.43" tilt="-30.23"/>
+        <vertex pan="69.76" tilt="-29.09"/>
+        <vertex pan="67.59" tilt="-28.88"/>
+        <vertex pan="67.52" tilt="-14.73"/>
+        <vertex pan="79.87" tilt="-18.83"/>
+        <vertex pan="81.6" tilt="-18.92"/>
+      </polyhotspot>
+      <polyhotspot id="Poly05" title="" url="https://moovitapp.com/index/es-419/transporte_p%C3%BAblico-lines-San_Luis_Potos%C3%AD-3742-858252" target="_blank" description="">
+        <vertex pan="100.75" tilt="-5.12"/>
+        <vertex pan="100.62" tilt="-14.22"/>
+        <vertex pan="86.92" tilt="-17.48"/>
+        <vertex pan="76.65" tilt="-15.3"/>
+        <vertex pan="70.02" tilt="-5.98"/>
+        <vertex pan="73.75" tilt="1.39"/>
+        <vertex pan="94.2" tilt="-1.81"/>
+      </polyhotspot>
+      <polyhotspot id="Poly06" title="" url="https://moovitapp.com/index/es-419/transporte_p%C3%BAblico-San_Luis_Potos%C3%AD-3742" target="_blank" description="">
+        <vertex pan="174.45" tilt="-24.98"/>
+        <vertex pan="173.11" tilt="-40.82"/>
+        <vertex pan="162.02" tilt="-44.76"/>
+        <vertex pan="139.69" tilt="-43.72"/>
+        <vertex pan="137.74" tilt="-35.53"/>
+        <vertex pan="145.69" tilt="-20.67"/>
+        <vertex pan="157.54" tilt="-17.68"/>
+        <vertex pan="167.06" tilt="-21.05"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomin="0" type="diptocolor" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" invertcontrol="1" speedwheel="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1250" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" width="1250" overlap="1">
+      <level height="1250" preload="0" predecode="0" width="1250"/>
+      <level height="625" preload="0" predecode="0" width="625"/>
+      <level height="312" preload="1" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-148.69" projection="4" tilt="-27.76" fov="62.5"/>
+      <flyin pan="-152.19" projection="4" tilt="-27.68" fov="62.5"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata author="" title="" source="" customnodeid="" tags="RECORRIDO 360 SLP" latitude="" info="" longitude="" datetime="29/07/21 9:05 A.M." comment="" copyright="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" border="1" height="20" borderradius="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1"/>
+      <polyhotspot id="Poly01" title="" url="{node2}" target="" description="">
+        <vertex pan="43.42" tilt="-3.83"/>
+        <vertex pan="44.54" tilt="-11.5"/>
+        <vertex pan="31.08" tilt="-12.41"/>
+        <vertex pan="25.95" tilt="-10.07"/>
+        <vertex pan="25.05" tilt="-5.2"/>
+        <vertex pan="27.24" tilt="-2.85"/>
+        <vertex pan="38.67" tilt="-2.82"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" url="http://www.citadina.mx/sanluis" target="_blank" description="">
+        <vertex pan="-43.86" tilt="-1.45"/>
+        <vertex pan="-58.9" tilt="-0.69"/>
+        <vertex pan="-62.22" tilt="-2.43"/>
+        <vertex pan="-62.23" tilt="-8.51"/>
+        <vertex pan="-60.69" tilt="-10.91"/>
+        <vertex pan="-50.26" tilt="-11.64"/>
+        <vertex pan="-46.42" tilt="-9.85"/>
+        <vertex pan="-40.9" tilt="-3.77"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" url="https://www.soriana.com/soriana/es/store/Sendero%20San%20Luis%20Potosi" target="_blank" description="">
+        <vertex pan="-96.12" tilt="-26.7"/>
+        <vertex pan="-96.48" tilt="-36.26"/>
+        <vertex pan="-114.12" tilt="-37.96"/>
+        <vertex pan="-120.88" tilt="-33.99"/>
+        <vertex pan="-116.89" tilt="-25.92"/>
+        <vertex pan="-100.1" tilt="-21.99"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" url="https://www.bodegaaurrera.com.mx/inicio?bidkw+walmart=bodega+aurrera&amp;gclid=CjwKCAjwo4mIBhBsEiwAKgzXOBfAs4awG59NE9lTXyzNiAdw1pWN5kSN0tEK5XB3Oy8Zm8do0gqCsRoCiy4QAvD_BwE" target="_blank" description="">
+        <vertex pan="-121.28" tilt="-8.24"/>
+        <vertex pan="-129.36" tilt="-8.55"/>
+        <vertex pan="-134.26" tilt="-9.04"/>
+        <vertex pan="-135.77" tilt="-10.05"/>
+        <vertex pan="-134.61" tilt="-16.3"/>
+        <vertex pan="-131.39" tilt="-18.64"/>
+        <vertex pan="-124.14" tilt="-17.81"/>
+        <vertex pan="-119.05" tilt="-16.96"/>
+        <vertex pan="-118.75" tilt="-14.93"/>
+        <vertex pan="-118.63" tilt="-10.38"/>
+      </polyhotspot>
+      <polyhotspot id="Poly05" title="" url="{node4}" target="" description="">
+        <vertex pan="-126.92" tilt="2.89"/>
+        <vertex pan="-127.1" tilt="-4.36"/>
+        <vertex pan="-135.96" tilt="-6.97"/>
+        <vertex pan="-141.08" tilt="-3.74"/>
+        <vertex pan="-140.84" tilt="-0.22"/>
+        <vertex pan="-139.79" tilt="2.95"/>
+        <vertex pan="-135.58" tilt="4.33"/>
+      </polyhotspot>
+      <polyhotspot id="Poly06" title="" url="https://www.facebook.com/PlazaSenderoSanLuis/" target="_blank" description="">
+        <vertex pan="-157.91" tilt="-0.92"/>
+        <vertex pan="-159.66" tilt="-7.84"/>
+        <vertex pan="-169.01" tilt="-7.76"/>
+        <vertex pan="-174.08" tilt="-6.23"/>
+        <vertex pan="-174.26" tilt="1.85"/>
+        <vertex pan="-162.07" tilt="3.22"/>
+        <vertex pan="-159.19" tilt="2.88"/>
+        <vertex pan="-159.72" tilt="1.43"/>
+      </polyhotspot>
+      <polyhotspot id="Poly07" title="" url="https://busolinea.com/centrales/san-luis-potosi" target="_blank" description="">
+        <vertex pan="-179.96" tilt="-11.23"/>
+        <vertex pan="-179.83" tilt="-20.18"/>
+        <vertex pan="168.99" tilt="-18.86"/>
+        <vertex pan="165.26" tilt="-18.98"/>
+        <vertex pan="162.55" tilt="-15.39"/>
+        <vertex pan="162.92" tilt="-9.61"/>
+        <vertex pan="166.88" tilt="-7.15"/>
+        <vertex pan="173.52" tilt="-8.95"/>
+      </polyhotspot>
+      <polyhotspot id="Poly08" title="" url="https://www.soriana.com/soriana/es/store/El%20Paseo?lat=22.1409&amp;long=-100.9543" target="_blank" description="">
+        <vertex pan="158.51" tilt="-11.6"/>
+        <vertex pan="159.08" tilt="-16.56"/>
+        <vertex pan="158.33" tilt="-17.17"/>
+        <vertex pan="151.14" tilt="-17.07"/>
+        <vertex pan="146.51" tilt="-18.04"/>
+        <vertex pan="145.59" tilt="-17.56"/>
+        <vertex pan="145.25" tilt="-14.63"/>
+        <vertex pan="145.49" tilt="-10.65"/>
+        <vertex pan="146.91" tilt="-8.56"/>
+        <vertex pan="154.87" tilt="-9.1"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomin="0" type="diptocolor" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" invertcontrol="1" speedwheel="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1250" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" width="1250" overlap="1">
+      <level height="1250" preload="0" predecode="0" width="1250"/>
+      <level height="625" preload="0" predecode="0" width="625"/>
+      <level height="312" preload="1" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="85.67" projection="4" tilt="-19.67" fov="62.8"/>
+      <flyin pan="85.67" projection="4" tilt="-19.67" fov="62.8"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata author="" title="" source="" customnodeid="" tags="RECORRIDO 360 SLP" latitude="" info="" longitude="" datetime="29/07/21 9:08 A.M." comment="" copyright="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" border="1" height="20" borderradius="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1"/>
+      <polyhotspot id="Poly01" title="" url="https://www.bodegaaurrera.com.mx/inicio?bidkw+walmart=bodega+aurrera&amp;gclid=CjwKCAjwo4mIBhBsEiwAKgzXOCZehWVcDATSh63HmV2qNMncr7CYJ6i6VL_-jUNQFBdJ3M3jfxz3RxoCtQkQAvD_BwE" target="_blank" description="">
+        <vertex pan="-77.89" tilt="-6.86"/>
+        <vertex pan="-78.09" tilt="-13.52"/>
+        <vertex pan="-85.46" tilt="-18.38"/>
+        <vertex pan="-96.06" tilt="-15.55"/>
+        <vertex pan="-97.15" tilt="-8.96"/>
+        <vertex pan="-85.51" tilt="-2.9"/>
+        <vertex pan="-79.9" tilt="-5.8"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" url="{node5}" target="" description="">
+        <vertex pan="109.09" tilt="2.83"/>
+        <vertex pan="108.91" tilt="-6.27"/>
+        <vertex pan="96.21" tilt="-8.19"/>
+        <vertex pan="91" tilt="-6.79"/>
+        <vertex pan="87.67" tilt="-2.27"/>
+        <vertex pan="90.25" tilt="5.56"/>
+        <vertex pan="100.62" tilt="6.53"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" url="https://slp.tecnm.mx/" target="_blank" description="">
+        <vertex pan="75.01" tilt="-28.7"/>
+        <vertex pan="76.23" tilt="-36.86"/>
+        <vertex pan="73.33" tilt="-42.31"/>
+        <vertex pan="59.72" tilt="-41.95"/>
+        <vertex pan="39.68" tilt="-41.34"/>
+        <vertex pan="40.33" tilt="-30.61"/>
+        <vertex pan="45.16" tilt="-21.38"/>
+        <vertex pan="69.99" tilt="-23.72"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" url="" target="_blank" description="">
+        <vertex pan="29.63" tilt="-3.71"/>
+        <vertex pan="30.56" tilt="-12.31"/>
+        <vertex pan="22.53" tilt="-14.56"/>
+        <vertex pan="7.67" tilt="-9.61"/>
+        <vertex pan="8.87" tilt="-6.21"/>
+        <vertex pan="14.6" tilt="-2.12"/>
+        <vertex pan="24.74" tilt="-2.52"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomin="0" type="diptocolor" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" invertcontrol="1" speedwheel="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1250" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" width="1250" overlap="1">
+      <level height="1250" preload="0" predecode="0" width="1250"/>
+      <level height="625" preload="0" predecode="0" width="625"/>
+      <level height="312" preload="1" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="102.52" projection="4" tilt="-23.86" fov="62.2"/>
+      <flyin pan="102.52" projection="4" tilt="-23.86" fov="62.2"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata author="" title="" source="" customnodeid="" tags="RECORRIDO 360 SLP" latitude="" info="" longitude="" datetime="29/07/21 9:10 A.M." comment="" copyright="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" border="1" height="20" borderradius="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1"/>
+      <polyhotspot id="Poly01" title="" url="https://sistemavalladolid.com/portal/colegio.php?homo=slpo&amp;gclid=CjwKCAjwo4mIBhBsEiwAKgzXONfUg2oeDYGlkty_BpxWE5bZTce0HJBZ9CNaDkJmS8zMr3WVhdWWhRoCkf4QAvD_BwE" target="_blank" description="">
+        <vertex pan="90.19" tilt="-14.78"/>
+        <vertex pan="89.46" tilt="-23.82"/>
+        <vertex pan="75.19" tilt="-29.32"/>
+        <vertex pan="57.99" tilt="-21.45"/>
+        <vertex pan="64.4" tilt="-14.17"/>
+        <vertex pan="77.41" tilt="-12.31"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" url="https://www.hogaresunion.com//modelo/las-trojes-cobalto" target="_blank" description="">
+        <vertex pan="149.38" tilt="-11.11"/>
+        <vertex pan="149.52" tilt="-24.87"/>
+        <vertex pan="134.79" tilt="-29.72"/>
+        <vertex pan="122.89" tilt="-32.82"/>
+        <vertex pan="111.19" tilt="-31.3"/>
+        <vertex pan="107.81" tilt="-21.16"/>
+        <vertex pan="114.61" tilt="-6.8"/>
+        <vertex pan="132.29" tilt="-4.98"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" url="https://www.google.com/maps/d/u/0/viewer?mid=13W83iPOqnkdIkBCRX1N5fymkFR5iOHAI&amp;ll=22.146483256434518%2C-100.93304149999999&amp;z=13" target="_blank" description="">
+        <vertex pan="-75.66" tilt="-40.92"/>
+        <vertex pan="-74.66" tilt="-48.59"/>
+        <vertex pan="-90.13" tilt="-50.6"/>
+        <vertex pan="-103.81" tilt="-44.89"/>
+        <vertex pan="-91.54" tilt="-34.11"/>
+        <vertex pan="-85.75" tilt="-34.92"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" url="https://www.bodegaaurrera.com.mx/inicio?bidkw+walmart=bodega+aurrera&amp;gclid=CjwKCAjwo4mIBhBsEiwAKgzXOCZehWVcDATSh63HmV2qNMncr7CYJ6i6VL_-jUNQFBdJ3M3jfxz3RxoCtQkQAvD_BwE" target="_blank" description="">
+        <vertex pan="-72.32" tilt="-55.68"/>
+        <vertex pan="-72.28" tilt="-60.62"/>
+        <vertex pan="-86.52" tilt="-62.05"/>
+        <vertex pan="-93.76" tilt="-61.9"/>
+        <vertex pan="-95.85" tilt="-57.47"/>
+        <vertex pan="-91.09" tilt="-54.01"/>
+        <vertex pan="-79.25" tilt="-52.95"/>
+        <vertex pan="-75.85" tilt="-53.21"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomin="0" type="diptocolor" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" invertcontrol="1" speedwheel="1" lockedmouse="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="0" hideabout="0"/>
+  </panorama>
+</tour>
